@@ -30,3 +30,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=msanysatio4-sketch&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msanysatio4-sketch&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://instagram.com/msany_hsb" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:msanysatio4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
